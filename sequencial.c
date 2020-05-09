@@ -58,5 +58,6 @@ int main(){
 
 		  printf("Area of Mandlebrot set = %12.8f +/- %12.8f\n",area,error);
 		  printf("Time = %12.8f seconds\n",finish-start);
-  }
+	          printf("NPOINTS: %d \n", NPOINTS);
+ }
 }
