@@ -1,0 +1,41 @@
+Area of Mandlebrot set =   1.51121250 +/-   0.00302243
+Time =   0.48406966 seconds
+NPOINTS: 500 
+Area of Mandlebrot set =   1.51020562 +/-   0.00151021
+Time =   1.94964002 seconds
+NPOINTS: 1000 
+Area of Mandlebrot set =   1.50959500 +/-   0.00100640
+Time =   4.37231947 seconds
+NPOINTS: 1500 
+Area of Mandlebrot set =   1.50928453 +/-   0.00075464
+Time =   7.79132243 seconds
+NPOINTS: 2000 
+Area of Mandlebrot set =   1.50905790 +/-   0.00060362
+Time =  12.15078839 seconds
+NPOINTS: 2500 
+Area of Mandlebrot set =   1.50903813 +/-   0.00050301
+Time =  17.52333030 seconds
+NPOINTS: 3000 
+Area of Mandlebrot set =   1.50894735 +/-   0.00043113
+Time =  23.88632326 seconds
+NPOINTS: 3500 
+Area of Mandlebrot set =   1.50881590 +/-   0.00037720
+Time =  31.06046358 seconds
+NPOINTS: 4000 
+Area of Mandlebrot set =   1.50882444 +/-   0.00033529
+Time =  39.54286214 seconds
+NPOINTS: 4500 
+Area of Mandlebrot set =   1.50875573 +/-   0.00030175
+Time =  48.66462176 seconds
+NPOINTS: 5000 
+
+
+Resources used:
+
+ -- CPU TIME     = 00:11:58 
+
+ -- MEMORY       = 2296kb 
+
+ -- VIRTUAL MEM  = 79312kb 
+
+ -- ELAPSED TIME = 00:03:08 
